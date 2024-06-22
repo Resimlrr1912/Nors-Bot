@@ -1,6 +1,6 @@
 module.exports = {
-    token: "MTI1NDIxMzU1OTE4MTkwNTk1MA.GEeAd5.kMG81fzMMfS0IPpy6D0Z8T4VFKAHL-fKWIdX4g", 
-    prefix: "mr!",
+    token: "MTI1NDIxMzU1OTE4MTkwNTk1MA.Ge1L9u.KCKrzxTscJguuBf8voecAv7DoXGQTUwQaKnC_U", 
+    prefix: "w!",
     destek: "",
     topgg: "",
     davet: "",
