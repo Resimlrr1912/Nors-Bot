@@ -1,7 +1,7 @@
 {
-  "name": "Nors",
+  "name": "LavbinMR",
   "version": "4.0.0",
-  "description": "Raven sunucusuna özel yapılmış nors bot altyapısı.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
